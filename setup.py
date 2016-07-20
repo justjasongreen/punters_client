@@ -39,9 +39,6 @@ setup(
         'setuptools_scm'
     ],
     extras_require={
-        'dev':  [
-            'check-manifest'
-        ],
         'test': [
             'tox'
         ]
