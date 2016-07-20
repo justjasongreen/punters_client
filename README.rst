@@ -60,7 +60,7 @@ The source distribution includes a test suite based on pytest. To ensure compati
 
 To install all development and test requirements into your current Python environment, execute the following command from the root directory of the source tree::
 
-    pip install -e .[dev,test]
+    pip install -e .[test]
 
 To run the test suite included in the source distribution, execute the tox command from the root directory of the source tree as follows::
 
